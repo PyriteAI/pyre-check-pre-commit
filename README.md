@@ -1,2 +1,3 @@
-# pyre-check-pre-commit
+# Pyre pre-commit Hook
+
 pre-commit hook for pyre-check

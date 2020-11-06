@@ -1,0 +1,7 @@
+- id: pyre-check
+  name: pyre-check
+  entry: pyre_check_pre_commit.py
+  pass_filenames: false
+  require_serial: true
+  language: script
+  types: [python]
